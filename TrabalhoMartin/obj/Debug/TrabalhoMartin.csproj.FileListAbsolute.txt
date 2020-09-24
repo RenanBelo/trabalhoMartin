@@ -1,0 +1,9 @@
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\bin\Debug\TrabalhoMartin.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\bin\Debug\TrabalhoMartin.exe
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\bin\Debug\TrabalhoMartin.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\obj\Debug\TrabalhoMartin.csprojAssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\obj\Debug\TrabalhoMartin.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\obj\Debug\TrabalhoMartin.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\obj\Debug\TrabalhoMartin.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\obj\Debug\TrabalhoMartin.exe
+C:\Users\renan\OneDrive\Área de Trabalho\TrabalhoMartin\TrabalhoMartin\obj\Debug\TrabalhoMartin.pdb
